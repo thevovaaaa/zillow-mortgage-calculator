@@ -20,10 +20,8 @@ Before running the tests, make sure you have the following installed:
    ```bash
    git clone https://github.com/thevovaaaa/zillow-mortgage-calculator.git
    cd zillow-mortgage-calculator-tests
-2. **Install dependencies**:
-   ```bash
-    npm install
-3. **Run the Tests**:
+
+2. **Run the Tests**:
    ```bash
    npx cypress run
 
